@@ -22,7 +22,7 @@ const App = () => {
         </div>
         <Container>  
             <Jumbotron/>
-            <div className="row p-2 d-flex">
+            <div className="row p-2 d-flex" style={{margin:"auto"}}>
                 <div className="col px-1"><Card/></div>
                 <div className="col px-1"><Card/></div>
                 <div className="col px-1"><Card/></div>
